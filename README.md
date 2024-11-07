@@ -10,13 +10,6 @@ This project implements a **Facial Emotion Recognition (FER)** system using Conv
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Model Training and Evaluation](#model-training-and-evaluation)
-7. [Results](#results)
-8. [Future Improvements](#future-improvements)
-9. [Contributing](#contributing)
-10. [License](#license)
-
 ---
 
 ## Overview
